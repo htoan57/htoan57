@@ -45,6 +45,6 @@ A data-driven thinker passionate about transforming complex datasets into valuab
 
 ###
 
-<img src="https://raw.githubusercontent.com/htoan57/htoan57/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/htoan57/htoan57/output/dist/snake.svg" alt="Snake animation" />
 
 ###
