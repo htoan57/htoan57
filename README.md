@@ -45,10 +45,10 @@ Check out the pinned repositories below for details!
 
 ## 📫 Let's Connect
 
-- [![Gmail Badge](https://img.shields.io/badge/-htoan.nguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:htoan.nguyen57@gmail.com)](mailto:htoan.nguyen57@gmail.com)
-- [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/htoannguyen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/htoannguyen/)
-- (https://www.linkedin.com/in/www.linkedin.com/in/htoannguyen/) [![Github Badge](https://img.shields.io/badge/-htoan57-grey?style=flat&logo=github&logoColor=white&link=https://github.com/htoan57/)](https://www.github.com/htoan57/) [
-- [Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://htoan57.github.io/Toan-portfolio//)](https://htoan57.github.io/Toan-portfolio//) 
+[![Gmail Badge](https://img.shields.io/badge/-htoan.nguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:htoan.nguyen57@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-htoannguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/htoannguyen/)
+[![GitHub Badge](https://img.shields.io/badge/-htoan57-grey?style=flat&logo=github&logoColor=white)](https://github.com/htoan57/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://htoan57.github.io/Toan-portfolio/)
 
 ---
 
