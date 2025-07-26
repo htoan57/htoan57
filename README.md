@@ -35,14 +35,16 @@ A data-driven thinker passionate about transforming complex datasets into valuab
 
 <br><br>
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=htoan57&theme=dark&hide_border=false)<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=htoan57&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
 <br><br>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"
-    alt="footer"
-/>
-</p>
+###
+
+<img src="https://raw.githubusercontent.com/htoan57/htoan57/output/snake.svg" alt="Snake animation" />
+
+###
