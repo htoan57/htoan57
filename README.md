@@ -5,6 +5,27 @@
   />
 </p>
 
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=htoan57.htoan57&"  />
+</div>
+
+###
+
 # 💫 About Me:
 A data-driven thinker passionate about transforming complex datasets into valuable insights. With experience in data science and analytics, I enjoy tackling real-world problems using data and delivering solutions that drive results.<br><br>---<br><br>## 📂 Featured Projects<br><br>- 🔄 **Customer Churn & Retention Analysis** – Cohort analysis and churn KPIs in Power BI  <br><br>Check out the pinned repositories below for details!<br><br>---<br><br>## 💼 Work Ethos<br><br>- 🧠 Analytical mindset with a curiosity to explore  <br>- 📚 Constantly upskilling and experimenting  <br>- 🤝 Collaborative and community-oriented  <br><br>---<br><br>## 📫 Let's Connect<br><br>[![Gmail Badge](https://img.shields.io/badge/-tony.hnguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tony.hnguyen57@gmail.com)<br>[![LinkedIn Badge](https://img.shields.io/badge/-tonynguyen-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonynguyen57)<br>[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://htoan57.github.io/Tony-portfolio/)
 
@@ -16,25 +37,6 @@ A data-driven thinker passionate about transforming complex datasets into valuab
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=htoan57&theme=dark&hide_border=false)<br/>
 
-<br><br>
-
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/htoan57/htoan57/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br><br>
 
