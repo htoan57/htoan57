@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Toan%20Nguyen!%20👋&fontSize=40&fontAlignY=40&desc=Master%20of%20Data%20Science%20|%20Data%20Analyst%20|%20Problem%20Solver&descAlign=70&descAlignY=60" alt="header" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I'm%20Toan%20Nguyen!%20👋&fontSize=40&fontAlignY=40&desc=Master%20of%20Data%20Science%20%7C%20Data%20Analyst%20%7C%20Problem%20Solver&descAlign=70&descAlignY=60" 
+    alt="header" 
+  />
 </p>
 
 # 💫 About Me:
-<br><br>I’m Toan Nguyen, a data-driven thinker passionate about transforming complex datasets into valuable insights. With experience in data science, analytics, and automation, I enjoy tackling real-world problems using data and delivering solutions that drive results.<br><br>---<br><br>## 📂 Featured Projects<br><br>- 🔄 **Customer Churn & Retention Analysis** – Cohort analysis and churn KPIs in Power BI  <br><br>Check out the pinned repositories below for details!<br><br>---<br><br>## 💼 Work Ethos<br><br>- 🧠 Analytical mindset with a curiosity to explore  <br>- 📚 Constantly upskilling and experimenting  <br>- 🤝 Collaborative and community-oriented  <br><br>---<br><br>## 📫 Let's Connect<br><br>[![Gmail Badge](https://img.shields.io/badge/-htoan.nguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:htoan.nguyen57@gmail.com)<br>[![LinkedIn Badge](https://img.shields.io/badge/-htoannguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/htoannguyen/)<br>[![GitHub Badge](https://img.shields.io/badge/-htoan57-grey?style=flat&logo=github&logoColor=white)](https://github.com/htoan57/)<br>[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://htoan57.github.io/Toan-portfolio/)
+I’m Toan Nguyen, a data-driven thinker passionate about transforming complex datasets into valuable insights. With experience in data science, analytics, and automation, I enjoy tackling real-world problems using data and delivering solutions that drive results.<br><br>---<br><br>## 📂 Featured Projects<br><br>- 🔄 **Customer Churn & Retention Analysis** – Cohort analysis and churn KPIs in Power BI  <br><br>Check out the pinned repositories below for details!<br><br>---<br><br>## 💼 Work Ethos<br><br>- 🧠 Analytical mindset with a curiosity to explore  <br>- 📚 Constantly upskilling and experimenting  <br>- 🤝 Collaborative and community-oriented  <br><br>---<br><br>## 📫 Let's Connect<br><br>[![Gmail Badge](https://img.shields.io/badge/-htoan.nguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:htoan.nguyen57@gmail.com)<br>[![LinkedIn Badge](https://img.shields.io/badge/-htoannguyen-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/htoannguyen/)<br>[![GitHub Badge](https://img.shields.io/badge/-htoan57-grey?style=flat&logo=github&logoColor=white)](https://github.com/htoan57/)<br>[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white)](https://htoan57.github.io/Toan-portfolio/)
 
 
 # 💻 Tech Stack:
@@ -23,5 +26,8 @@
 [![](https://visitcount.itsvg.in/api?id=htoan57&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"
+    alt="footer"
+/>
 </p>
