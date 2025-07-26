@@ -17,11 +17,6 @@ A data-driven thinker passionate about transforming complex datasets into valuab
 ![](https://nirzak-streak-stats.vercel.app/?user=htoan57&theme=dark&hide_border=false)<br/>
 
 <br><br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=htoan57&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=htoan57&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <p align="center">
   <img 
