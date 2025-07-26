@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Toan%20Nguyen!%20👋&fontSize=40&fontAlignY=40&desc=Master%20of%20Data%20Science%20|%20Data%20Analyst%20|%20Problem%20Solver&descAlign=70&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Toan%20Nguyen!%20👋&fontSize=40&fontAlignY=40&desc=%20Data%20Scienctist%20|%20Data%20Analyst%20|%20Problem%20Solver&descAlign=70&descAlignY=60" alt="header" />
 </p>
 
 # 👋 About Me
@@ -15,19 +15,23 @@ I’m Toan Nguyen, a data-driven thinker passionate about transforming complex d
 
 - **Languages:** Python, R, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
-- **Tools:** Power BI, Jupyter Notebook, Excel, Git, VS Code  
-- **Platforms:** GitHub, Azure, Power Automate, SmartSheet
+- **Tools:** Tableau, Power BI, Jupyter Notebook, Excel, Git, VS Code
 
 ---
 
 ## 📂 Featured Projects
 
 - 🔄 **Customer Churn & Retention Analysis** – Cohort analysis and churn KPIs in Power BI  
-- 🌱 **Environmental Water Use Study** – Field data modelling for evapotranspiration estimation  
-- 📁 **Document Automation Tool** – Python script to auto-organise academic files using Excel mapping  
-- 📊 **Streaming Service Analytics Dashboard** – Subscription behaviour insights with DAX in Power BI
 
 Check out the pinned repositories below for details!
+
+---
+
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=htoan57 alt=htoan57 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=htoan57&show_icons=true&include_all_commits=true)](https://github.com/htoan57/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htoan57&layout=compact)](https://github.com/htoan57/github-readme-stats)
 
 ---
 
@@ -41,8 +45,10 @@ Check out the pinned repositories below for details!
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 Email: your-email@example.com
+- [![Gmail Badge](https://img.shields.io/badge/-htoan.nguyen57@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:htoan.nguyen57@gmail.com)](mailto:htoan.nguyen57@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/htoannguyen-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/htoannguyen/)
+- (https://www.linkedin.com/in/www.linkedin.com/in/htoannguyen/) [![Github Badge](https://img.shields.io/badge/-htoan57-grey?style=flat&logo=github&logoColor=white&link=https://github.com/htoan57/)](https://www.github.com/htoan57/) [
+- [Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://htoan57.github.io/Toan-portfolio//)](https://htoan57.github.io/Toan-portfolio//) 
 
 ---
 
